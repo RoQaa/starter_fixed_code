@@ -1,0 +1,21 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [{
+    "id": "100000000000000",
+    "changes": [{
+      "field": "messages",
+      "value": {
+        "messaging_product": "whatsapp",
+        "metadata": { "display_phone_number": "97317000000", "phone_number_id": "100000000000001" },
+        "contacts": [{ "profile": { "name": "Fatima Ali" }, "wa_id": "97336000000" }],
+        "messages": [{
+          "from": "97336000000",
+          "id": "wamid.HBgLOTczMzYwMDAwMDAVAgARGBI0QTdGRjU2QzNEOEU5QjFBNjAA",
+          "timestamp": "1762700000",
+          "type": "text",
+          "text": { "body": "Hello, I want to renew my CR. My email is fatima@example.com" }
+        }]
+      }
+    }]
+  }]
+}
